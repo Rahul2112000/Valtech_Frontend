@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Step2-Form</title>
+    <title>Document</title>
 </head>
 <body>
     <table border="1">
@@ -19,13 +19,13 @@
             <tr>
                 <th>1</th>
                 <td>Text</td>
-                <td><input autofocus onblur="writeit(this)" type="text" placeholder="text"></td>
+                <td><input oninput="writeit(this)" type="text" placeholder="text" autofocus></td>
                 <td><output id="text"></output></td>
             </tr>
             <tr>
                 <th>2</th>
                 <td>Search</td>
-                <td><input autofocus onblur="writeit(this)" type="search" placeholder="search"></td>
+                <td><input oninput="writeit(this)" type="search" placeholder="search"></td>
                 <td><output id="search"></output></td>
             </tr>
             <tr>
@@ -78,7 +78,7 @@
             </tr>
             <tr>
                 <th>11</th>
-                <td>Telphone</td>
+                <td>Telephone</td>
                 <td><input oninput="writeit(this)" type="tel"></td>
                 <td><output id="tel"></output></td>
             </tr>
@@ -93,6 +93,60 @@
                 <td>URL</td>
                 <td><input oninput="writeit(this)" type="url"></td>
                 <td><output id="url"></output></td>
+            </tr>
+            <tr>
+                <th>14</th>
+                <td>Password</td>
+                <td><input oninput="writeit(this)" type="password"></td>
+                <td><output id="password"></output></td>
+            </tr>
+            <tr>
+                <th>15</th>
+                <td>Checkbox</td>
+                <td><input oninput="writeit(this)" type="checkbox"></td>
+                <td><output id="checkbox"></output></td>    
+            </tr>
+            <tr>
+                <th>16</th>
+                <td>Radio</td>
+                <td><input oninput="writeit(this)" type="radio"></td>
+                <td><output id="radio"></output></td>
+            </tr>
+            <tr>
+                <th>17</th>
+                <td>File</td>
+                <td><input oninput="writeit(this)" type="file"></td>
+                <td><output id="file"></output></td>
+            </tr>
+            <tr>
+                <th>18</th>
+                <td>Image</td>
+                <td><input oninput="writeit(this)" type="image"></td>
+                <td><output id="image"></output></td>
+            </tr>
+            <tr>
+                <th>19</th>
+                <td>Submit</td>
+                <td><input oninput="writeit(this)" type="submit"></td>
+                <td><output id="submit"></output></td>  
+            </tr>
+            <tr>
+                <th>20</th>
+                <td>Button</td>
+                <td><input oninput="writeit(this)" type="button"></td>
+                <td><output id="button"></output></td>
+            </tr>
+            <tr>
+                <th>21</th>
+                <td>Reset</td>
+                <td><input oninput="writeit(this)" type="reset"></td>
+                <td><output id="reset"></output></td>
+            </tr>
+            <tr>
+                <th>22</th>
+                <td>Hidden</td>
+                <td><input oninput="writeit(this)" type="hidden"></td>
+                <td><output id="hidden"></output></td>
             </tr>
         </tbody>
     </table>

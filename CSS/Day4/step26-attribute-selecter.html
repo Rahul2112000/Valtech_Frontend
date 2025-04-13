@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Attribute Selector</title>
+    <style>
+      img {
+        border: 2px solid red;
+
+        margin: 5px;
+      }
+      /* Attribute Selector */
+      /* img[alt] {
+        border: 2px solid blue;
+      } */
+      /* img[width="99"] {
+        border: 12px solid pink;
+       } */
+      /* start with super */
+      /* img[alt^="super"]{
+        border-radius: 50px;
+       } */
+      /* ends with man */
+      /* img[alt$="man"] {
+        border-radius: 50px;
+      } */
+
+      /* anywhere in the string */
+      /* img[alt*="r"]{
+        border-radius: 50px;
+      } */
+      /* attribut has a space followed by the value */
+      /* img[alt~="spider"]{
+        border-radius: 50px;
+        } */
+      /* attribut has a dash followed by the value */
+      /* img[alt|="ant"]{
+        border-radius: 50px;
+      } */
+    </style>
+  </head>
+  <body>
+    <img src="images/antman.jpg" alt="antman" width="100" />
+
+    <img src="images/batman1.jpg" alt="batman1" width="100" />
+    <img src="images/wonderwoman.jpg" alt="wonderwoman" width="100" />
+    <img src="images/spiderman.jpg" alt="spiderman" width="100" />
+    <img src="images/supergirl.jpg" alt="supergirl" width="99" />
+    <img src="images/spider3_tn.jpg" alt="wonderwoman" width="100" />
+    <img src="images/spider3_tn.jpg" alt="wonderwoman" width="100" />
+    <img src="images/hulk.jpg" alt="hulk" width="100" />
+    <img src="images/captainmarvel.jpg" alt="captainmarvel" width="100" />
+    <img src="images/blackwidow.jpg" alt="blackwidow" width="100" />
+    <img src="images/superman.jpg" alt="superman" width="100" />
+    <img src="images/captainamerica.jpg" alt="captainamerica" width="100" />
+    <img src="images/blackpanther.jpg" width="100" />
+  </body>
+</html>

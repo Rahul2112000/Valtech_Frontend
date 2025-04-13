@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      function calFun(elm) {
+        elm.setAttribute("disabled", "disabled");
+      }
+    </script>
+
+    <style>
+      /* input:checked {
+            outline: 5px solid red;
+        } */
+      /* input[type="number"]:valid {
+        outline: 5px solid green;
+      }
+      input[type="number"]:invalid {
+        outline: 5px solid rgb(166, 29, 141);
+      }
+
+      button:disabled {
+        background-color: rgb(152, 58, 58);
+        color: rgb(82, 34, 58);
+      }
+
+      div::selection {
+        background-color: rgb(255, 0, 0);
+        color: rgb(102, 125, 217);
+      }
+
+      .z:empty {
+        background-color: rgb(255, 0, 0);
+        color: rgb(102, 125, 217);
+      } */
+
+      /* .red article {
+        background-color: rgb(255, 0, 0);
+        color: rgb(102, 125, 217);
+      } */
+
+      body > article {
+        background-color: rgb(255, 0, 0);
+        color: rgb(102, 125, 217);
+      }
+    </style>
+  </head>
+  <body>
+
+    <article>Lorem ipsum dolor sit amet consectetur adipisicing elit. In placeat corrupti ipsam nisi pariatur soluta repudiandae sint voluptatem vel nulla reprehenderit aut, quibusdam blanditiis vitae architecto? Ipsa eaque incidunt quasi et minima! Pariatur ipsam quae impedit eveniet in? Possimus tenetur iste quod labore distinctio voluptatibus aliquid porro? Quas, tempora placeat.</article>
+    <div class="red">
+     <section>
+        <article>
+            <h3>Article</h3>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas quasi dolorum consectetur odio delectus reprehenderit provident natus, quae deleniti est vel temporibus rerum eius, corrupti incidunt, dicta blanditiis! Voluptatibus quasi quos voluptates et, ratione non possimus voluptatem. Expedita, iure eius.
+        </article>
+     </section>
+    <div>
+      <label for="pune">Pune</label>
+      <input type="checkbox" id="pune" />
+    </div>
+
+    <div>
+      <label for="ahemdabaad">Ahemdabaad</label>
+      <input type="checkbox" id="ahemdabaad" />
+    </div>
+
+    <div>
+      <label for="bangaluru">Bangaluru</label>
+      <input type="checkbox" id="bangaluru" />
+    </div>
+
+    <input type="number" min="1" max="50" />
+    <button onclick="calFun(this)">click Me</button>
+    <div>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolores,
+      doloremque nisi? Alias tenetur nostrum, qui recusandae distinctio, ratione
+      consequuntur veniam accusamus minima facere perspiciatis porro a eaque
+      laudantium error non vel! Sit voluptatum tempore, totam atque
+      consequuntur, illo itaque cumque distinctio, dicta architecto error
+      obcaecati enim. Molestias porro quas cumque qui quasi ipsum ut explicabo a
+      ratione! Est assumenda libero ea, aut a sint rerum dolore corporis
+      possimus. Hic eveniet explicabo asperiores, nihil consectetur nulla illum,
+      possimus vel tempora libero quo, cupiditate adipisci quidem alias
+      consequuntur voluptatibus corporis veritatis nemo odit doloribus
+      recusandae. Beatae voluptates delectus iusto debitis expedita tempora.
+    </div>
+
+    <div class="z"> </div>
+  </body>
+</html>

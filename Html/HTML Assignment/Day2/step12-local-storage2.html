@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Local Storage step2</title>
+    <script>
+      function addUserInfo() {
+        var count = localStorage.length;
+        var userobj = {
+          firstname: document.getElementById("fn").value,
+          lastname: document.getElementById("ln").value,
+          title: document.getElementById("tt").value,
+          power: document.getElementById("pw").value,
+        };
+        localStorage.setItem("avenger" + count, JSON.stringify(userobj));
+        document.getElementById("fn").value = "";
+        document.getElementById("ln").value = "";
+        document.getElementById("tt").value = "";
+        document.getElementById("pw").value = "";
+        alert("User info added");
+      }
+      function getCount() {
+        alert(localStorage.length);
+      }
+      function getUserName() {
+        console.log("All users");
+        var count = localStorage.length;
+        for (var i = 0; i < count; i++) {
+          var currentHero = JSON.parse(localStorage.getItem("avenger" + i));
+          console.log(
+            currentHero.firstname +
+              " " +
+              currentHero.lastname +
+              " " +
+              currentHero.title +
+              " " +
+              currentHero.power
+          );
+        }
+      }
+
+      function removeFirstName() {
+        var count = localStorage.length;
+        for (var i = 0; i < count; i++) {
+          var currentHero = JSON.parse(localStorage.getItem("avenger" + i));
+          if (currentHero.firstname === "Rahul") {
+            localStorage.removeItem("avenger" + i);
+          }
+        }
+      }
+
+      function allClear() {
+        localStorage.clear();
+        alert("all cleared");
+      }
+      function getKey() {
+        alert(localStorage.key(0));
+      }
+      function getTitle() {
+        var count = localStorage.length;
+        for (var i = 0; i < count; i++) {
+          var currentHero = JSON.parse(localStorage.getItem("avenger" + i));
+          console.log(currentHero.title);
+        }
+      }
+      function getPower() {
+        var count = localStorage.length;
+        for (var i = 0; i < count; i++) {
+          var currentHero = JSON.parse(localStorage.getItem("avenger" + i));
+          console.log(currentHero.power);
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <fieldset>
+      <legend>User Login Form</legend>
+      <table>
+        <thead>
+          <tr>
+            <th>Your First Name</th>
+            <th>Your Last Name</th>
+            <th>Title</th>
+            <th>Power</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <input id="fn" type="text" />
+            </td>
+            <td>
+              <input id="ln" type="text" />
+            </td>
+            <td>
+              <input id="tt" type="text" />
+            </td>
+            <td>
+              <input id="pw" type="text" />
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <button onclick="addUserInfo()">Add User Info</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </fieldset>
+    <!--  <button onclick="clickHandler()">Set User Name</button>
+    <button onclick="getHandler()">Get User Name</button> -->
+    <button onclick="getCount()">Number of items stored</button>
+    <br />
+    <button onclick="getUserName()">Get All Avengers</button>
+    <br />
+    <button onclick="removeFirstName()">Remove First Name</button>
+    <br />
+    <button onclick="allClear()">All Clear</button>
+    <br />
+    <button onclick="getKey()">Get First Key</button>
+    <br />
+    <button onclick="getTitle()">Title</button>
+    <br />
+    <button onclick="getPower()">Power</button>
+  </body>
+</html>

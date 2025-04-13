@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lang</title>
+    <style>
+        /* p[lang="en"] {
+            color: blue;
+        }
+        p[lang="fr"] {
+            color: red;
+        }
+        p[lang="es"] {
+            color: green;
+        } */
+
+        /* attribute */
+        p:lang(fr) {
+            background-color: lightblue;
+        }
+        p:lang(en) {
+            background-color: lightgreen;
+        }
+        p:lang(es) {
+            background-color: lightcoral;
+        }
+    </style>
+</head>
+<body>
+    <p lang="en">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus.</p>
+    <p lang="fr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus.</p>   
+       <p lang="es">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus. </p>    
+   
+    
+</body>
+</html>

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Highlight Found Text</title>
+
+  <style>
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .container p {
+      margin: 50px;
+      padding: 50px;
+      background-color: rgb(231, 231, 251);
+      border-radius: 10px;
+      box-shadow: 10px 10px 10px rgba(0, 124, 87, 0.1);
+      line-height: 1.6;
+    }
+    .highlight {
+      background-color: rgb(249, 127, 127);
+      color: black;
+      font-weight: bold;
+    }
+    .container div {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+    }
+    .container label {
+      margin-bottom: 10px;
+    }
+    .container input {
+      margin-bottom: 10px;
+    }
+    .container button {
+      margin: 5px;
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Find and Highlight Text</h1>
+    <p id="text">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt maiores dolore illum quis eius laudantium culpa id temporibus, odit quidem. Eum natus fuga nostrum consectetur sapiente vitae inventore enim sed rem suscipit tempore iusto saepe minus, officiis cum optio totam quaerat dolor repellat cumque at, omnis odit dolorum quibusdam. Ipsa asperiores accusantium neque assumenda! Hic doloremque obcaecati expedita aperiam vero odio cum commodi distinctio aspernatur dolorem. Et cumque commodi sapiente, voluptatem optio velit vero nesciunt illo at doloribus quis alias beatae rem laborum natus, deserunt, veritatis magni? 
+    </p>
+
+    <div>
+      <label for="input">Input:</label>
+      <input type="text" id="input" name="input" />
+      <button id="find-btn">Find</button>
+      <button id="find-all-btn">Find All</button>
+    </div>
+  </div>
+
+  <script>
+    function escapeRegExp(string) {
+      return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); 
+    }
+
+    function findString() {
+      const input = document.getElementById("input").value.trim();
+      const paragraph = document.getElementById("text");
+      let text = paragraph.innerText;
+
+      
+      paragraph.innerHTML = text;
+
+      if (input === "") return;
+
+      const index = text.indexOf(input);
+      if (index !== -1) {
+        const before = text.substring(0, index);
+        const match = text.substring(index, index + input.length);
+        const after = text.substring(index + input.length);
+
+        paragraph.innerHTML = `${before}<span class="highlight">${match}</span>${after}`;
+      }
+    }
+
+    function findAllStrings() {
+      const input = document.getElementById("input").value.trim();
+      const paragraph = document.getElementById("text");
+      let text = paragraph.innerText;
+
+      
+      paragraph.innerHTML = text;
+
+      if (input === "") return;
+
+      const escapedInput = escapeRegExp(input);
+      const regex = new RegExp(escapedInput, 'gi'); 
+
+      paragraph.innerHTML = text.replace(regex, (match) => `<span class="highlight">${match}</span>`);
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      document.getElementById("find-btn").addEventListener("click", findString);
+      document.getElementById("find-all-btn").addEventListener("click", findAllStrings);
+    });
+  </script>
+</body>
+</html>

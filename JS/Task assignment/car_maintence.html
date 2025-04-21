@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Car Maintenance Tracker</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #f4f4f4;
+        padding: 20px;
+      }
+      h1 {
+        text-align: center;
+        color: #333;
+      }
+      .container {
+        max-width: 600px;
+        margin: auto;
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      input[type="text"],
+      input[type="date"] {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+      button {
+        background: #28a745;
+        color: white;
+        padding: 8px 12px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-right: 5px;
+      }
+      button:hover {
+        background: #218838;
+      }
+      #filterSection {
+        margin: 20px 0;
+        text-align: center;
+      }
+      .task {
+        background: #e9ecef;
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        position: relative;
+      }
+      .task.completed {
+        background: #d4edda;
+      }
+      .action-buttons {
+        margin-top: 10px;
+      }
+      .delete-button {
+        background: #dc3545;
+      }
+      .edit-button {
+        background: #ffc107;
+        color: black;
+      }
+      .complete-button {
+        background: #17a2b8;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Car Maintenance Tracker</h1>
+
+    <div class="container">
+      <form id="taskForm">
+        <label>Vehicle Name:</label>
+        <input type="text" id="vehicleName" required />
+
+        <label>Model:</label>
+        <input type="text" id="model" required />
+
+        <label>Task Description:</label>
+        <input type="text" id="taskDescription" required />
+
+        <label>Due Date:</label>
+        <input type="date" id="dueDate" required />
+
+        <button type="submit">Add Task</button>
+      </form>
+    </div>
+
+    <div id="filterSection">
+      <label for="filter">Filter:</label>
+      <select id="filter">
+        <option value="all">All Tasks</option>
+        <option value="pending">Pending</option>
+        <option value="completed">Completed</option>
+      </select>
+    </div>
+
+    <div id="taskList" class="container"></div>
+
+    <script>
+      const taskForm = document.getElementById("taskForm");
+      const taskList = document.getElementById("taskList");
+      const filterSelect = document.getElementById("filter");
+
+      let tasks = JSON.parse(localStorage.getItem("tasks")) || [];
+
+      function saveTasks() {
+        localStorage.setItem("tasks", JSON.stringify(tasks));
+      }
+
+      function renderTasks(filter = "all") {
+        taskList.innerHTML = "";
+
+        let filteredTasks = tasks;
+        if (filter === "pending") {
+          filteredTasks = tasks.filter((task) => task.status === "Pending");
+        } else if (filter === "completed") {
+          filteredTasks = tasks.filter((task) => task.status === "Completed");
+        }
+
+        if (filteredTasks.length === 0) {
+          taskList.innerHTML =
+            '<p style="text-align:center;">No tasks found.</p>';
+          return;
+        }
+
+        filteredTasks.forEach((task) => {
+          const taskDiv = document.createElement("div");
+          taskDiv.className = `task ${task.status.toLowerCase()}`;
+          taskDiv.innerHTML = `
+          <h3>${task.vehicleName} (${task.model})</h3>
+          <p>${task.taskDescription}</p>
+          <p>Due: ${task.dueDate}</p>
+          <p>Status: ${task.status}</p>
+          <div class="action-buttons">
+            <button class="complete-button" onclick="markCompleted(${task.id})">Complete</button>
+            <button class="edit-button" onclick="editTask(${task.id})">Edit</button>
+            <button class="delete-button" onclick="deleteTask(${task.id})">Delete</button>
+          </div>
+        `;
+          taskList.appendChild(taskDiv);
+        });
+      }
+
+      function addTask(vehicleName, model, taskDescription, dueDate) {
+        const newTask = {
+          id: Date.now(),
+          vehicleName,
+          model,
+          taskDescription,
+          dueDate,
+          status: "Pending",
+        };
+        tasks.push(newTask);
+        saveTasks();
+        renderTasks(filterSelect.value);
+      }
+
+      function deleteTask(id) {
+        tasks = tasks.filter((task) => task.id !== id);
+        saveTasks();
+        renderTasks(filterSelect.value);
+      }
+
+      function markCompleted(id) {
+        tasks = tasks.map((task) => {
+          if (task.id === id) {
+            return { ...task, status: "Completed" };
+          }
+          return task;
+        });
+        saveTasks();
+        renderTasks(filterSelect.value);
+      }
+
+      function editTask(id) {
+        const task = tasks.find((t) => t.id === id);
+        if (!task) return;
+
+        const newVehicleName = prompt("Edit Vehicle Name:", task.vehicleName);
+        const newModel = prompt("Edit Model:", task.model);
+        const newDescription = prompt(
+          "Edit Task Description:",
+          task.taskDescription
+        );
+        const newDueDate = prompt("Edit Due Date (yyyy-mm-dd):", task.dueDate);
+
+        if (newVehicleName && newModel && newDescription && newDueDate) {
+          task.vehicleName = newVehicleName;
+          task.model = newModel;
+          task.taskDescription = newDescription;
+          task.dueDate = newDueDate;
+          saveTasks();
+          renderTasks(filterSelect.value);
+        }
+      }
+
+      taskForm.addEventListener("submit", function (e) {
+        e.preventDefault();
+        const vehicleName = document.getElementById("vehicleName").value.trim();
+        const model = document.getElementById("model").value.trim();
+        const taskDescription = document
+          .getElementById("taskDescription")
+          .value.trim();
+        const dueDate = document.getElementById("dueDate").value;
+
+        if (vehicleName && model && taskDescription && dueDate) {
+          addTask(vehicleName, model, taskDescription, dueDate);
+          taskForm.reset();
+        }
+      });
+
+      filterSelect.addEventListener("change", () => {
+        renderTasks(filterSelect.value);
+      });
+
+      renderTasks();
+    </script>
+  </body>
+</html>

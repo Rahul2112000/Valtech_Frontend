@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hero List</title>
+  <style>
+    table {
+      width: 800px;
+      margin: 20px auto;
+      font-family: sans-serif;
+      border-collapse: collapse;
+    }
+    table, th, td {
+      border: 1px solid black;
+      text-align: center;
+    }
+    th {
+      background-color: rgb(9, 0, 36);
+      color: papayawhip;
+      padding: 8px;
+    }
+    td {
+      padding: 8px;
+    }
+    button {
+      display: block;
+      padding: 10px;
+      margin: 20px auto;
+      font-size: 16px;
+    }
+  </style>
+  <script>
+    document.addEventListener("DOMContentLoaded", init);
+    function clickHandler() {
+      fetch("data/data.json")
+        .then(res => {
+          if (!res.ok) {
+            throw new Error("Error aa gya bhai");
+          }
+          return res.json();
+        })
+        .then(data => {
+          let tbody = document.querySelector("tbody");
+          tbody.innerHTML = ""; 
+          data.hl.forEach(val => {
+            tbody.innerHTML += `
+              <tr>
+                <td>${val.sl}</td>
+                <td>${val.title}</td>
+                <td><img width="50" src="${val.poster}" alt="${val.title}" /></td>
+                <td>${val.firstname} ${val.lastname}</td>
+                <td>${val.city}</td>
+                <td>${val.ticketprice.toFixed(2)}</td>
+                <td>${val.releasedate}</td>
+              </tr>
+            `;
+          });
+        })
+        .catch(error => {
+          console.error("error", error);
+        });
+    }
+
+    function init(){
+        document.querySelector("button").addEventListener("click",clickHandler);
+    }
+  </script>
+</head>
+<body>
+  <button>Click Me to Load Data</button>
+
+  <div class="container">
+    <table>
+      <thead>
+        <tr>
+          <th>Sl</th>
+          <th>Title</th>
+          <th>Poster</th>
+          <th>Full Name</th>
+          <th>City</th>
+          <th>Ticket Price</th>
+          <th>Release Date</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>

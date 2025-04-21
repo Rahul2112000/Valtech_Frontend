@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        // var obj1={};
+        // var obj2=new Object();
+        // var obj3=Object.create(template);
+
+        var hero=Object.create(null);
+        // Object.defineProperty(hero,"title",{value:"Shaktimaan"});
+        // Object.defineProperty(hero,"firstName",{value:"Gangadhar"});
+        // Object.defineProperty(hero,"power",{value:10,writable:true});
+        Object.defineProperties(hero,{
+            title:{value:"Shaktimaan",enumerable:true,configurable:true},
+            firstName:{value:"Gangadhar",enumerable:true},
+            power:{value:10,writable:true}
+        });
+        console.log(hero.power);
+        hero.power=20;
+        console.log(hero.power);
+
+        for (var prop in hero){
+            console.log(prop,hero[prop]);
+        }
+
+        console.log("+++++++++++");
+        Object.defineProperty(hero, "title", { value: "Krishh", writable: true, enumerable: true, configurable: true });
+
+        Object.defineProperty(hero, "accessPower", {
+            get: function () {
+                return this.power;
+            },
+            set: function (value) {
+                this.power = value;
+            }
+        });
+
+        console.log(hero.power);
+        hero.power=30;
+        console.log(hero.power);
+
+        for (var prop in hero){
+            console.log(prop,hero[prop]);
+        }
+
+        console.log(hero.accessPower);
+        hero.accessPower=50;
+        console.log(hero.accessPower);
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

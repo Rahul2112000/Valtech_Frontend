@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        let favnums = [
+        18, 44, 29, 13, 26, 13, 9, 7, 28, 45, 33, 85, 99, 25, 1, 17, 68, 2, 75,
+      ];
+      
+        let sum = 0;
+        for (let i = 0; i < favnums.length; i++) {
+            if(favnums[i]<=50)
+          sum += favnums[i];
+        }
+        console.log("The sum of the array is: " + sum);
+
+       let total=favnums.filter(val=>val<=50).reduce((initval,val)=>initval+val,0);
+        console.log("The sum of the array is: " + total);
+        
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

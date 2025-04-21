@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      /* function mouseOverHandler() {
+        console.log("user mouseover the button");
+      }
+      function mouseUpHandler() {
+        console.log("user mouseup the button");
+      }
+      function mouseDownHandler() {
+        console.log("user mousedown the button");
+      }
+      function mouseOutHandler() {
+        console.log("user mouseout the button");
+      }
+      function clickHandler() {
+        console.log("user clicked the button");
+      } */
+      /* function init() {
+        document
+          .getElementsByTagName("button")[0]
+          .addEventListener("mouseover", mouseOverHandler);
+        document
+          .getElementsByTagName("button")[0]
+          .addEventListener("mouseup", mouseUpHandler);
+        document
+          .getElementsByTagName("button")[0]
+          .addEventListener("mousedown", mouseDownHandler);
+        document
+          .getElementsByTagName("button")[0]
+          .addEventListener("click", clickHandler);
+        document
+          .getElementsByTagName("button")[0]
+          .addEventListener("mouseout", mouseOutHandler);
+      } */
+      function userHandler(evt) {
+        console.log(evt.type, " happened");
+      }
+      function userHandler2(evt) {
+        console.log(evt.type, " happened");
+      }
+      function userHandler3(evt) {
+        console.log(evt.type, " happened");
+      }
+      function init() {
+        document
+          .getElementsByTagName("button")[0]
+          .addEventListener("mouseover", userHandler);
+        document
+          .getElementsByTagName("button")[0]
+          .addEventListener("mouseup", userHandler);
+        document
+          .getElementsByTagName("button")[0]
+          .addEventListener("mousedown", userHandler);
+        document
+          .getElementsByTagName("button")[0]
+          .addEventListener("click", userHandler);
+        document
+          .getElementsByTagName("button")[0]
+          .addEventListener("click", userHandler2);
+        document
+          .getElementsByTagName("button")[0]
+          .addEventListener("click", userHandler3);
+        document
+          .getElementsByTagName("button")[0]
+          .addEventListener("mouseout", userHandler);
+      }
+      document.addEventListener("DOMContentLoaded", init);
+    </script>
+  </head>
+  <body>
+    <button>Click Me</button>
+  </body>
+</html>

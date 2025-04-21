@@ -1,0 +1,73 @@
+ 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      function containerClickHanlder(event) {
+        console.log(event.currentTarget.getAttribute("class"));
+      }
+      function boxClickHanlder(event) {
+        console.log(event.currentTarget.getAttribute("class"));
+      }
+      function btnClickHanlder(event) {
+        event.stopPropagation();
+        console.log(event.currentTarget.getAttribute("class"));
+      }
+      function init() {
+        document
+          .getElementsByClassName("container")[0]
+          .addEventListener("click", containerClickHanlder);
+        document
+          .getElementsByClassName("box")[0]
+          .addEventListener("click", boxClickHanlder);
+        document
+          .getElementsByClassName("btn")[0]
+          .addEventListener("click", btnClickHanlder);
+        document
+          .getElementsByClassName("container")[0]
+          .addEventListener("click", containerClickHanlder, true);
+        document
+          .getElementsByClassName("box")[0]
+          .addEventListener("click", boxClickHanlder, true);
+        document
+          .getElementsByClassName("btn")[0]
+          .addEventListener("click", btnClickHanlder, true);
+      }
+      document.addEventListener("DOMContentLoaded", init);
+    </script>
+    <style>
+      body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 600px;
+      }
+      .container {
+        width: 900px;
+        height: 400px;
+        background-color: rgb(81, 81, 81);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .container .box {
+        width: 450px;
+        height: 200px;
+        background-color: rgb(242, 149, 149);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box">
+        <button class="btn">Click Me</button>
+      </div>
+    </div>
+  </body>
+</html>

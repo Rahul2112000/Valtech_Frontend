@@ -1,0 +1,12 @@
+extends template 
+
+block vars
+    - var title = "Profile page"
+    - var company = "Valtech"
+block body
+    a(href="/logout") Logout 
+    if userinfo
+        ul 
+            li First Name : #{userinfo.firstname}
+            li Last Name : #{userinfo.lastname}
+            li eMail : #{userinfo.email}

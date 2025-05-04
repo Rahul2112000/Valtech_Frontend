@@ -1,0 +1,19 @@
+{
+  "name": "autho-authe",
+  "version": "1.0.0",
+  "main": "step2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "client-sessions": "^0.8.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2",
+    "pug": "^3.0.3"
+  }
+}

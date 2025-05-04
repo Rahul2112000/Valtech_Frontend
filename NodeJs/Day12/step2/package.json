@@ -1,0 +1,19 @@
+{
+  "name": "valtech-rajasthan",
+  "version": "1.0.0",
+  "description": "This is my first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "valtech",
+    "rajasthan",
+    "RR"
+  ],
+  "author": "Rahul",
+  "license": "ISC",
+  "dependencies": {
+    "valtech-ahmedabad": "^1.0.1"
+  }
+}

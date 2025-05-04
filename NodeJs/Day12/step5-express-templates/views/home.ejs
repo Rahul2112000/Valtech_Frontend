@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Welcome to your life | <%= compname %> : EJS</h1>
+    <h2>We need <%= headcount %> vadapav</h2>
+    <ul>
+      <% heroes.forEach(function(hero){ %>
+      <li><%= hero %></li>
+      <% }); %>
+    </ul>
+    <hr />
+    <form action="#" method="post">
+      <label for="msg">Message</label>
+      <input id="msg" name="message" type="text" />
+      <button type="submit">Send Message</button>
+    </form>
+  </body>
+</html>

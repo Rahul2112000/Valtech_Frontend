@@ -1,0 +1,3502 @@
+[
+  {
+    "firstname": "Steve",
+    "lastname": "Stark",
+    "title": "Investigator",
+    "city": "Diu Daman",
+    "power": 7
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Stark",
+    "title": "Captain America",
+    "city": "Shimla",
+    "power": 9
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Walker",
+    "title": "Microsoft",
+    "city": "Ahmedabad",
+    "power": 8
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Wilson",
+    "title": "Antman",
+    "city": "Jaipur",
+    "power": 8
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Maddoc",
+    "title": "Spiderman",
+    "city": "Bengalore",
+    "power": 3
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Walker",
+    "title": "Captain America",
+    "city": "Shimla",
+    "power": 3
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Jones",
+    "title": "Captain America",
+    "city": "Ooty",
+    "power": 1
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Rogers",
+    "title": "Superman",
+    "city": "Mysore",
+    "power": 4
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Ramanof",
+    "title": "Dead Pool",
+    "city": "Ahmedabad",
+    "power": 1
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Walker",
+    "title": "Batman",
+    "city": "Rampuri",
+    "power": 6
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Wilson",
+    "title": "Investigator",
+    "city": "Rampuri",
+    "power": 3
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Maddoc",
+    "title": "Investigator",
+    "city": "Rampuri",
+    "power": 4
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Gates",
+    "title": "Dare Devil",
+    "city": "Surat",
+    "power": 8
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Scott",
+    "title": "Phantom",
+    "city": "Rampuri",
+    "power": 3
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Walker",
+    "title": "Black Widow",
+    "city": "Mysore",
+    "power": 1
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Scott",
+    "title": "Investigator",
+    "city": "Ooty",
+    "power": 3
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Gates",
+    "title": "Ironman",
+    "city": "Shimla",
+    "power": 1
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Maddoc",
+    "title": "Antman",
+    "city": "Surat",
+    "power": 0
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Kent",
+    "title": "Batman",
+    "city": "Surat",
+    "power": 1
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Stark",
+    "title": "Ironman",
+    "city": "Surat",
+    "power": 8
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Kent",
+    "title": "Spiderman",
+    "city": "Diu Daman",
+    "power": 0
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Parker",
+    "title": "Superman",
+    "city": "Diu Daman",
+    "power": 3
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Maddoc",
+    "title": "Ironman",
+    "city": "Bengalore",
+    "power": 4
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Gates",
+    "title": "Dead Pool",
+    "city": "Rampuri",
+    "power": 5
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Rogers",
+    "title": "Investigator",
+    "city": "Jaipur",
+    "power": 8
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Wayne",
+    "title": "Captain America",
+    "city": "Jaipur",
+    "power": 2
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Scott",
+    "title": "Captain America",
+    "city": "Jaipur",
+    "power": 1
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Maddoc",
+    "title": "Phantom",
+    "city": "Diu Daman",
+    "power": 8
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Kent",
+    "title": "Dare Devil",
+    "city": "Diu Daman",
+    "power": 6
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Maddoc",
+    "title": "Antman",
+    "city": "Surat",
+    "power": 3
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Walker",
+    "title": "Black Widow",
+    "city": "Ooty",
+    "power": 8
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Wilson",
+    "title": "Antman",
+    "city": "Mysore",
+    "power": 0
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Maddoc",
+    "title": "Spiderman",
+    "city": "Diu Daman",
+    "power": 6
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Maddoc",
+    "title": "Spiderman",
+    "city": "Manali",
+    "power": 8
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Ramanof",
+    "title": "Antman",
+    "city": "Diu Daman",
+    "power": 8
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Gates",
+    "title": "Superman",
+    "city": "Ooty",
+    "power": 7
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Kent",
+    "title": "Microsoft",
+    "city": "Bengalore",
+    "power": 6
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Maddoc",
+    "title": "Phantom",
+    "city": "Bengalore",
+    "power": 4
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Stark",
+    "title": "Spiderman",
+    "city": "Bengalore",
+    "power": 6
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Gates",
+    "title": "Ironman",
+    "city": "Diu Daman",
+    "power": 8
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Wilson",
+    "title": "Phantom",
+    "city": "Manali",
+    "power": 7
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Rogers",
+    "title": "Captain America",
+    "city": "Ooty",
+    "power": 4
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Scott",
+    "title": "Ironman",
+    "city": "Jamkhambhadia",
+    "power": 7
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Gates",
+    "title": "Investigator",
+    "city": "Rampuri",
+    "power": 5
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Kent",
+    "title": "Black Widow",
+    "city": "Diu Daman",
+    "power": 8
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Stark",
+    "title": "Dead Pool",
+    "city": "Jaipur",
+    "power": 0
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Parker",
+    "title": "Superman",
+    "city": "Rampuri",
+    "power": 4
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Stark",
+    "title": "Phantom",
+    "city": "Mysore",
+    "power": 0
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Rogers",
+    "title": "Antman",
+    "city": "Nainital",
+    "power": 9
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Maddoc",
+    "title": "Ironman",
+    "city": "Manali",
+    "power": 0
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Jones",
+    "title": "Dead Pool",
+    "city": "Ahmedabad",
+    "power": 1
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Kent",
+    "title": "Dead Pool",
+    "city": "Nainital",
+    "power": 3
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Gates",
+    "title": "Superman",
+    "city": "Ahmedabad",
+    "power": 6
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Rogers",
+    "title": "Ironman",
+    "city": "Ahmedabad",
+    "power": 2
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Ramanof",
+    "title": "Batman",
+    "city": "Diu Daman",
+    "power": 9
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Ramanof",
+    "title": "Dare Devil",
+    "city": "Ooty",
+    "power": 2
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Wayne",
+    "title": "Phantom",
+    "city": "Bengalore",
+    "power": 0
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Ramanof",
+    "title": "Antman",
+    "city": "Rampuri",
+    "power": 6
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Stark",
+    "title": "Microsoft",
+    "city": "Jamkhambhadia",
+    "power": 1
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Rogers",
+    "title": "Dead Pool",
+    "city": "Rampuri",
+    "power": 9
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Gates",
+    "title": "Captain America",
+    "city": "Rampuri",
+    "power": 5
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Scott",
+    "title": "Investigator",
+    "city": "Jamkhambhadia",
+    "power": 9
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Wilson",
+    "title": "Superman",
+    "city": "Rampuri",
+    "power": 4
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Scott",
+    "title": "Ironman",
+    "city": "Mysore",
+    "power": 8
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Stark",
+    "title": "Superman",
+    "city": "Ahmedabad",
+    "power": 5
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Wilson",
+    "title": "Microsoft",
+    "city": "Surat",
+    "power": 1
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Gates",
+    "title": "Dead Pool",
+    "city": "Ahmedabad",
+    "power": 9
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Maddoc",
+    "title": "Microsoft",
+    "city": "Shimla",
+    "power": 3
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Walker",
+    "title": "Investigator",
+    "city": "Surat",
+    "power": 6
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Ramanof",
+    "title": "Ironman",
+    "city": "Shimla",
+    "power": 0
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Rogers",
+    "title": "Black Widow",
+    "city": "Rampuri",
+    "power": 1
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Gates",
+    "title": "Antman",
+    "city": "Mysore",
+    "power": 1
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Parker",
+    "title": "Superman",
+    "city": "Jamkhambhadia",
+    "power": 6
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Maddoc",
+    "title": "Microsoft",
+    "city": "Surat",
+    "power": 4
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Gates",
+    "title": "Ironman",
+    "city": "Mysore",
+    "power": 1
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Scott",
+    "title": "Dare Devil",
+    "city": "Shimla",
+    "power": 1
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Wilson",
+    "title": "Antman",
+    "city": "Jamkhambhadia",
+    "power": 0
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Jones",
+    "title": "Phantom",
+    "city": "Bengalore",
+    "power": 8
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Maddoc",
+    "title": "Superman",
+    "city": "Jamkhambhadia",
+    "power": 4
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Stark",
+    "title": "Spiderman",
+    "city": "Rampuri",
+    "power": 6
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Wilson",
+    "title": "Antman",
+    "city": "Diu Daman",
+    "power": 8
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Kent",
+    "title": "Dead Pool",
+    "city": "Bengalore",
+    "power": 1
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Parker",
+    "title": "Microsoft",
+    "city": "Surat",
+    "power": 6
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Rogers",
+    "title": "Ironman",
+    "city": "Nainital",
+    "power": 8
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Jones",
+    "title": "Microsoft",
+    "city": "Jaipur",
+    "power": 9
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Walker",
+    "title": "Antman",
+    "city": "Ooty",
+    "power": 5
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Maddoc",
+    "title": "Ironman",
+    "city": "Rampuri",
+    "power": 6
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Maddoc",
+    "title": "Dead Pool",
+    "city": "Shimla",
+    "power": 6
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Ramanof",
+    "title": "Superman",
+    "city": "Diu Daman",
+    "power": 5
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Stark",
+    "title": "Superman",
+    "city": "Surat",
+    "power": 2
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Stark",
+    "title": "Spiderman",
+    "city": "Nainital",
+    "power": 8
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Ramanof",
+    "title": "Dare Devil",
+    "city": "Shimla",
+    "power": 6
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Wayne",
+    "title": "Dead Pool",
+    "city": "Surat",
+    "power": 3
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Wilson",
+    "title": "Dead Pool",
+    "city": "Nainital",
+    "power": 4
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Walker",
+    "title": "Dare Devil",
+    "city": "Ahmedabad",
+    "power": 2
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Maddoc",
+    "title": "Batman",
+    "city": "Jamkhambhadia",
+    "power": 8
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Scott",
+    "title": "Dead Pool",
+    "city": "Diu Daman",
+    "power": 8
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Maddoc",
+    "title": "Phantom",
+    "city": "Surat",
+    "power": 5
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Walker",
+    "title": "Ironman",
+    "city": "Ooty",
+    "power": 3
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Parker",
+    "title": "Ironman",
+    "city": "Nainital",
+    "power": 2
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Ramanof",
+    "title": "Phantom",
+    "city": "Manali",
+    "power": 3
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Parker",
+    "title": "Dare Devil",
+    "city": "Ahmedabad",
+    "power": 6
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Wilson",
+    "title": "Captain America",
+    "city": "Ooty",
+    "power": 4
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Kent",
+    "title": "Dare Devil",
+    "city": "Rampuri",
+    "power": 3
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Maddoc",
+    "title": "Antman",
+    "city": "Bengalore",
+    "power": 2
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Walker",
+    "title": "Black Widow",
+    "city": "Diu Daman",
+    "power": 9
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Gates",
+    "title": "Black Widow",
+    "city": "Manali",
+    "power": 2
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Stark",
+    "title": "Dare Devil",
+    "city": "Jaipur",
+    "power": 4
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Stark",
+    "title": "Dead Pool",
+    "city": "Manali",
+    "power": 4
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Stark",
+    "title": "Captain America",
+    "city": "Jamkhambhadia",
+    "power": 8
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Gates",
+    "title": "Microsoft",
+    "city": "Rampuri",
+    "power": 8
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Maddoc",
+    "title": "Investigator",
+    "city": "Surat",
+    "power": 5
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Walker",
+    "title": "Dead Pool",
+    "city": "Bengalore",
+    "power": 3
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Wayne",
+    "title": "Superman",
+    "city": "Manali",
+    "power": 9
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Gates",
+    "title": "Black Widow",
+    "city": "Nainital",
+    "power": 2
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Parker",
+    "title": "Microsoft",
+    "city": "Manali",
+    "power": 6
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Jones",
+    "title": "Spiderman",
+    "city": "Ooty",
+    "power": 9
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Maddoc",
+    "title": "Dare Devil",
+    "city": "Diu Daman",
+    "power": 0
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Wilson",
+    "title": "Superman",
+    "city": "Ahmedabad",
+    "power": 4
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Gates",
+    "title": "Investigator",
+    "city": "Mysore",
+    "power": 8
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Parker",
+    "title": "Dare Devil",
+    "city": "Surat",
+    "power": 8
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Scott",
+    "title": "Dead Pool",
+    "city": "Ahmedabad",
+    "power": 7
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Wayne",
+    "title": "Investigator",
+    "city": "Nainital",
+    "power": 1
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Stark",
+    "title": "Investigator",
+    "city": "Ahmedabad",
+    "power": 2
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Stark",
+    "title": "Antman",
+    "city": "Mysore",
+    "power": 1
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Rogers",
+    "title": "Investigator",
+    "city": "Nainital",
+    "power": 5
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Kent",
+    "title": "Investigator",
+    "city": "Jamkhambhadia",
+    "power": 4
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Jones",
+    "title": "Dead Pool",
+    "city": "Jaipur",
+    "power": 0
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Walker",
+    "title": "Microsoft",
+    "city": "Bengalore",
+    "power": 0
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Scott",
+    "title": "Dare Devil",
+    "city": "Surat",
+    "power": 1
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Stark",
+    "title": "Dare Devil",
+    "city": "Jaipur",
+    "power": 7
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Jones",
+    "title": "Phantom",
+    "city": "Diu Daman",
+    "power": 0
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Kent",
+    "title": "Dead Pool",
+    "city": "Manali",
+    "power": 1
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Ramanof",
+    "title": "Investigator",
+    "city": "Diu Daman",
+    "power": 2
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Maddoc",
+    "title": "Investigator",
+    "city": "Jaipur",
+    "power": 4
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Parker",
+    "title": "Dare Devil",
+    "city": "Ahmedabad",
+    "power": 2
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Wayne",
+    "title": "Investigator",
+    "city": "Jamkhambhadia",
+    "power": 4
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Wayne",
+    "title": "Spiderman",
+    "city": "Rampuri",
+    "power": 2
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Gates",
+    "title": "Dead Pool",
+    "city": "Bengalore",
+    "power": 6
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Walker",
+    "title": "Dare Devil",
+    "city": "Jaipur",
+    "power": 4
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Walker",
+    "title": "Spiderman",
+    "city": "Manali",
+    "power": 4
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Wilson",
+    "title": "Investigator",
+    "city": "Surat",
+    "power": 6
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Gates",
+    "title": "Ironman",
+    "city": "Diu Daman",
+    "power": 6
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Parker",
+    "title": "Spiderman",
+    "city": "Ooty",
+    "power": 5
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Wilson",
+    "title": "Microsoft",
+    "city": "Rampuri",
+    "power": 8
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Stark",
+    "title": "Captain America",
+    "city": "Shimla",
+    "power": 6
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Maddoc",
+    "title": "Investigator",
+    "city": "Ooty",
+    "power": 4
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Rogers",
+    "title": "Captain America",
+    "city": "Jaipur",
+    "power": 5
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Stark",
+    "title": "Dare Devil",
+    "city": "Manali",
+    "power": 5
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Kent",
+    "title": "Ironman",
+    "city": "Ooty",
+    "power": 5
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Stark",
+    "title": "Dead Pool",
+    "city": "Nainital",
+    "power": 0
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Gates",
+    "title": "Batman",
+    "city": "Ooty",
+    "power": 6
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Parker",
+    "title": "Ironman",
+    "city": "Jaipur",
+    "power": 0
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Maddoc",
+    "title": "Superman",
+    "city": "Jamkhambhadia",
+    "power": 0
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Stark",
+    "title": "Captain America",
+    "city": "Bengalore",
+    "power": 6
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Wilson",
+    "title": "Black Widow",
+    "city": "Jaipur",
+    "power": 8
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Gates",
+    "title": "Black Widow",
+    "city": "Jaipur",
+    "power": 0
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Ramanof",
+    "title": "Batman",
+    "city": "Manali",
+    "power": 3
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Kent",
+    "title": "Captain America",
+    "city": "Shimla",
+    "power": 3
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Rogers",
+    "title": "Batman",
+    "city": "Jaipur",
+    "power": 3
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Jones",
+    "title": "Captain America",
+    "city": "Manali",
+    "power": 6
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Stark",
+    "title": "Black Widow",
+    "city": "Diu Daman",
+    "power": 5
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Stark",
+    "title": "Dead Pool",
+    "city": "Bengalore",
+    "power": 2
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Jones",
+    "title": "Phantom",
+    "city": "Shimla",
+    "power": 7
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Scott",
+    "title": "Dare Devil",
+    "city": "Jaipur",
+    "power": 4
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Scott",
+    "title": "Investigator",
+    "city": "Jaipur",
+    "power": 0
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Stark",
+    "title": "Investigator",
+    "city": "Bengalore",
+    "power": 2
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Maddoc",
+    "title": "Investigator",
+    "city": "Rampuri",
+    "power": 2
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Jones",
+    "title": "Investigator",
+    "city": "Diu Daman",
+    "power": 7
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Parker",
+    "title": "Microsoft",
+    "city": "Jamkhambhadia",
+    "power": 6
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Maddoc",
+    "title": "Superman",
+    "city": "Bengalore",
+    "power": 5
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Walker",
+    "title": "Ironman",
+    "city": "Manali",
+    "power": 8
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Maddoc",
+    "title": "Black Widow",
+    "city": "Jamkhambhadia",
+    "power": 0
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Kent",
+    "title": "Dead Pool",
+    "city": "Bengalore",
+    "power": 3
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Stark",
+    "title": "Phantom",
+    "city": "Manali",
+    "power": 5
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Stark",
+    "title": "Dare Devil",
+    "city": "Diu Daman",
+    "power": 7
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Rogers",
+    "title": "Black Widow",
+    "city": "Jaipur",
+    "power": 8
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Ramanof",
+    "title": "Captain America",
+    "city": "Mysore",
+    "power": 2
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Wayne",
+    "title": "Black Widow",
+    "city": "Rampuri",
+    "power": 4
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Wayne",
+    "title": "Dead Pool",
+    "city": "Manali",
+    "power": 9
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Walker",
+    "title": "Captain America",
+    "city": "Ahmedabad",
+    "power": 4
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Parker",
+    "title": "Captain America",
+    "city": "Ooty",
+    "power": 7
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Rogers",
+    "title": "Spiderman",
+    "city": "Jamkhambhadia",
+    "power": 0
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Wayne",
+    "title": "Dead Pool",
+    "city": "Nainital",
+    "power": 3
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Parker",
+    "title": "Dead Pool",
+    "city": "Mysore",
+    "power": 3
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Walker",
+    "title": "Ironman",
+    "city": "Nainital",
+    "power": 8
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Parker",
+    "title": "Investigator",
+    "city": "Jaipur",
+    "power": 2
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Kent",
+    "title": "Phantom",
+    "city": "Jaipur",
+    "power": 6
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Jones",
+    "title": "Captain America",
+    "city": "Shimla",
+    "power": 3
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Kent",
+    "title": "Captain America",
+    "city": "Ooty",
+    "power": 7
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Maddoc",
+    "title": "Antman",
+    "city": "Rampuri",
+    "power": 3
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Maddoc",
+    "title": "Black Widow",
+    "city": "Ahmedabad",
+    "power": 9
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Scott",
+    "title": "Dare Devil",
+    "city": "Mysore",
+    "power": 4
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Kent",
+    "title": "Black Widow",
+    "city": "Rampuri",
+    "power": 3
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Maddoc",
+    "title": "Phantom",
+    "city": "Manali",
+    "power": 6
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Parker",
+    "title": "Microsoft",
+    "city": "Bengalore",
+    "power": 2
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Walker",
+    "title": "Dare Devil",
+    "city": "Mysore",
+    "power": 0
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Scott",
+    "title": "Phantom",
+    "city": "Jamkhambhadia",
+    "power": 7
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Walker",
+    "title": "Dead Pool",
+    "city": "Ooty",
+    "power": 9
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Wayne",
+    "title": "Dead Pool",
+    "city": "Jamkhambhadia",
+    "power": 6
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Maddoc",
+    "title": "Microsoft",
+    "city": "Diu Daman",
+    "power": 1
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Kent",
+    "title": "Investigator",
+    "city": "Diu Daman",
+    "power": 5
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Kent",
+    "title": "Dead Pool",
+    "city": "Shimla",
+    "power": 1
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Jones",
+    "title": "Dare Devil",
+    "city": "Shimla",
+    "power": 7
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Jones",
+    "title": "Microsoft",
+    "city": "Mysore",
+    "power": 5
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Scott",
+    "title": "Black Widow",
+    "city": "Mysore",
+    "power": 2
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Wilson",
+    "title": "Phantom",
+    "city": "Nainital",
+    "power": 8
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Ramanof",
+    "title": "Captain America",
+    "city": "Rampuri",
+    "power": 0
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Kent",
+    "title": "Dead Pool",
+    "city": "Rampuri",
+    "power": 3
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Parker",
+    "title": "Investigator",
+    "city": "Ahmedabad",
+    "power": 7
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Ramanof",
+    "title": "Spiderman",
+    "city": "Surat",
+    "power": 7
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Parker",
+    "title": "Ironman",
+    "city": "Manali",
+    "power": 4
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Gates",
+    "title": "Ironman",
+    "city": "Mysore",
+    "power": 1
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Wayne",
+    "title": "Investigator",
+    "city": "Bengalore",
+    "power": 6
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Jones",
+    "title": "Antman",
+    "city": "Jaipur",
+    "power": 0
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Kent",
+    "title": "Black Widow",
+    "city": "Ahmedabad",
+    "power": 1
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Gates",
+    "title": "Microsoft",
+    "city": "Rampuri",
+    "power": 4
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Stark",
+    "title": "Black Widow",
+    "city": "Bengalore",
+    "power": 8
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Kent",
+    "title": "Batman",
+    "city": "Bengalore",
+    "power": 8
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Rogers",
+    "title": "Phantom",
+    "city": "Bengalore",
+    "power": 4
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Rogers",
+    "title": "Dead Pool",
+    "city": "Mysore",
+    "power": 8
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Parker",
+    "title": "Investigator",
+    "city": "Manali",
+    "power": 2
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Walker",
+    "title": "Phantom",
+    "city": "Jamkhambhadia",
+    "power": 3
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Kent",
+    "title": "Black Widow",
+    "city": "Mysore",
+    "power": 3
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Gates",
+    "title": "Superman",
+    "city": "Jamkhambhadia",
+    "power": 2
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Gates",
+    "title": "Ironman",
+    "city": "Surat",
+    "power": 2
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Parker",
+    "title": "Investigator",
+    "city": "Ooty",
+    "power": 9
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Ramanof",
+    "title": "Ironman",
+    "city": "Diu Daman",
+    "power": 9
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Parker",
+    "title": "Antman",
+    "city": "Rampuri",
+    "power": 5
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Maddoc",
+    "title": "Phantom",
+    "city": "Jamkhambhadia",
+    "power": 0
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Wayne",
+    "title": "Captain America",
+    "city": "Manali",
+    "power": 8
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Walker",
+    "title": "Dare Devil",
+    "city": "Jamkhambhadia",
+    "power": 1
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Gates",
+    "title": "Captain America",
+    "city": "Bengalore",
+    "power": 4
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Wilson",
+    "title": "Spiderman",
+    "city": "Ahmedabad",
+    "power": 7
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Wilson",
+    "title": "Investigator",
+    "city": "Ooty",
+    "power": 6
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Wilson",
+    "title": "Captain America",
+    "city": "Mysore",
+    "power": 1
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Scott",
+    "title": "Batman",
+    "city": "Shimla",
+    "power": 6
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Wilson",
+    "title": "Dare Devil",
+    "city": "Mysore",
+    "power": 9
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Gates",
+    "title": "Ironman",
+    "city": "Surat",
+    "power": 9
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Kent",
+    "title": "Batman",
+    "city": "Shimla",
+    "power": 4
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Stark",
+    "title": "Phantom",
+    "city": "Shimla",
+    "power": 2
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Parker",
+    "title": "Dare Devil",
+    "city": "Diu Daman",
+    "power": 7
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Kent",
+    "title": "Spiderman",
+    "city": "Mysore",
+    "power": 0
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Jones",
+    "title": "Captain America",
+    "city": "Surat",
+    "power": 4
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Wilson",
+    "title": "Ironman",
+    "city": "Ahmedabad",
+    "power": 4
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Gates",
+    "title": "Dead Pool",
+    "city": "Jamkhambhadia",
+    "power": 7
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Scott",
+    "title": "Superman",
+    "city": "Diu Daman",
+    "power": 8
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Wayne",
+    "title": "Investigator",
+    "city": "Bengalore",
+    "power": 6
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Jones",
+    "title": "Dead Pool",
+    "city": "Rampuri",
+    "power": 5
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Parker",
+    "title": "Spiderman",
+    "city": "Bengalore",
+    "power": 8
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Kent",
+    "title": "Microsoft",
+    "city": "Nainital",
+    "power": 3
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Maddoc",
+    "title": "Dare Devil",
+    "city": "Ahmedabad",
+    "power": 3
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Maddoc",
+    "title": "Black Widow",
+    "city": "Ooty",
+    "power": 9
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Walker",
+    "title": "Spiderman",
+    "city": "Surat",
+    "power": 8
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Jones",
+    "title": "Antman",
+    "city": "Surat",
+    "power": 7
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Maddoc",
+    "title": "Antman",
+    "city": "Rampuri",
+    "power": 2
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Gates",
+    "title": "Ironman",
+    "city": "Manali",
+    "power": 0
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Wayne",
+    "title": "Black Widow",
+    "city": "Jamkhambhadia",
+    "power": 6
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Walker",
+    "title": "Microsoft",
+    "city": "Bengalore",
+    "power": 6
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Kent",
+    "title": "Microsoft",
+    "city": "Surat",
+    "power": 2
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Walker",
+    "title": "Superman",
+    "city": "Jaipur",
+    "power": 9
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Wilson",
+    "title": "Microsoft",
+    "city": "Diu Daman",
+    "power": 1
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Gates",
+    "title": "Ironman",
+    "city": "Shimla",
+    "power": 2
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Gates",
+    "title": "Antman",
+    "city": "Ahmedabad",
+    "power": 7
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Kent",
+    "title": "Investigator",
+    "city": "Surat",
+    "power": 2
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Parker",
+    "title": "Captain America",
+    "city": "Nainital",
+    "power": 4
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Wilson",
+    "title": "Antman",
+    "city": "Diu Daman",
+    "power": 8
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Gates",
+    "title": "Antman",
+    "city": "Surat",
+    "power": 2
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Ramanof",
+    "title": "Black Widow",
+    "city": "Jaipur",
+    "power": 8
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Gates",
+    "title": "Batman",
+    "city": "Jaipur",
+    "power": 8
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Scott",
+    "title": "Microsoft",
+    "city": "Jaipur",
+    "power": 3
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Scott",
+    "title": "Investigator",
+    "city": "Nainital",
+    "power": 4
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Stark",
+    "title": "Microsoft",
+    "city": "Jaipur",
+    "power": 0
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Parker",
+    "title": "Dare Devil",
+    "city": "Manali",
+    "power": 9
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Jones",
+    "title": "Dare Devil",
+    "city": "Mysore",
+    "power": 4
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Parker",
+    "title": "Antman",
+    "city": "Manali",
+    "power": 7
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Ramanof",
+    "title": "Ironman",
+    "city": "Mysore",
+    "power": 8
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Rogers",
+    "title": "Black Widow",
+    "city": "Jaipur",
+    "power": 3
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Wilson",
+    "title": "Superman",
+    "city": "Ahmedabad",
+    "power": 1
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Wayne",
+    "title": "Superman",
+    "city": "Rampuri",
+    "power": 5
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Walker",
+    "title": "Antman",
+    "city": "Rampuri",
+    "power": 9
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Wayne",
+    "title": "Dare Devil",
+    "city": "Shimla",
+    "power": 9
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Kent",
+    "title": "Superman",
+    "city": "Rampuri",
+    "power": 3
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Ramanof",
+    "title": "Antman",
+    "city": "Surat",
+    "power": 7
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Jones",
+    "title": "Dare Devil",
+    "city": "Ahmedabad",
+    "power": 9
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Parker",
+    "title": "Microsoft",
+    "city": "Surat",
+    "power": 3
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Gates",
+    "title": "Investigator",
+    "city": "Nainital",
+    "power": 2
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Stark",
+    "title": "Dare Devil",
+    "city": "Jamkhambhadia",
+    "power": 2
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Scott",
+    "title": "Spiderman",
+    "city": "Manali",
+    "power": 8
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Ramanof",
+    "title": "Phantom",
+    "city": "Manali",
+    "power": 2
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Walker",
+    "title": "Investigator",
+    "city": "Manali",
+    "power": 1
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Walker",
+    "title": "Dare Devil",
+    "city": "Jamkhambhadia",
+    "power": 5
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Maddoc",
+    "title": "Dead Pool",
+    "city": "Mysore",
+    "power": 6
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Maddoc",
+    "title": "Investigator",
+    "city": "Surat",
+    "power": 4
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Gates",
+    "title": "Dead Pool",
+    "city": "Mysore",
+    "power": 5
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Rogers",
+    "title": "Phantom",
+    "city": "Mysore",
+    "power": 9
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Scott",
+    "title": "Phantom",
+    "city": "Manali",
+    "power": 1
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Kent",
+    "title": "Dead Pool",
+    "city": "Jamkhambhadia",
+    "power": 0
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Wilson",
+    "title": "Microsoft",
+    "city": "Ooty",
+    "power": 4
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Scott",
+    "title": "Dead Pool",
+    "city": "Mysore",
+    "power": 5
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Kent",
+    "title": "Black Widow",
+    "city": "Jamkhambhadia",
+    "power": 5
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Wayne",
+    "title": "Superman",
+    "city": "Surat",
+    "power": 8
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Jones",
+    "title": "Superman",
+    "city": "Ooty",
+    "power": 6
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Stark",
+    "title": "Captain America",
+    "city": "Ooty",
+    "power": 2
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Ramanof",
+    "title": "Black Widow",
+    "city": "Ooty",
+    "power": 4
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Walker",
+    "title": "Batman",
+    "city": "Bengalore",
+    "power": 5
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Maddoc",
+    "title": "Spiderman",
+    "city": "Bengalore",
+    "power": 3
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Jones",
+    "title": "Dare Devil",
+    "city": "Manali",
+    "power": 5
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Rogers",
+    "title": "Spiderman",
+    "city": "Jamkhambhadia",
+    "power": 8
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Wayne",
+    "title": "Microsoft",
+    "city": "Nainital",
+    "power": 4
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Maddoc",
+    "title": "Black Widow",
+    "city": "Mysore",
+    "power": 6
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Rogers",
+    "title": "Black Widow",
+    "city": "Ooty",
+    "power": 2
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Parker",
+    "title": "Antman",
+    "city": "Jaipur",
+    "power": 2
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Rogers",
+    "title": "Dead Pool",
+    "city": "Manali",
+    "power": 5
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Kent",
+    "title": "Captain America",
+    "city": "Mysore",
+    "power": 8
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Parker",
+    "title": "Batman",
+    "city": "Diu Daman",
+    "power": 0
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Scott",
+    "title": "Black Widow",
+    "city": "Bengalore",
+    "power": 6
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Jones",
+    "title": "Antman",
+    "city": "Mysore",
+    "power": 3
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Wayne",
+    "title": "Phantom",
+    "city": "Shimla",
+    "power": 1
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Walker",
+    "title": "Dare Devil",
+    "city": "Ooty",
+    "power": 3
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Kent",
+    "title": "Superman",
+    "city": "Ahmedabad",
+    "power": 0
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Stark",
+    "title": "Investigator",
+    "city": "Nainital",
+    "power": 3
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Rogers",
+    "title": "Investigator",
+    "city": "Jaipur",
+    "power": 4
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Gates",
+    "title": "Phantom",
+    "city": "Jamkhambhadia",
+    "power": 0
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Scott",
+    "title": "Ironman",
+    "city": "Jamkhambhadia",
+    "power": 1
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Ramanof",
+    "title": "Dead Pool",
+    "city": "Ooty",
+    "power": 0
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Jones",
+    "title": "Batman",
+    "city": "Jamkhambhadia",
+    "power": 1
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Wilson",
+    "title": "Dare Devil",
+    "city": "Diu Daman",
+    "power": 3
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Wilson",
+    "title": "Antman",
+    "city": "Manali",
+    "power": 3
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Wilson",
+    "title": "Captain America",
+    "city": "Rampuri",
+    "power": 7
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Jones",
+    "title": "Investigator",
+    "city": "Surat",
+    "power": 4
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Walker",
+    "title": "Spiderman",
+    "city": "Ahmedabad",
+    "power": 9
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Ramanof",
+    "title": "Captain America",
+    "city": "Manali",
+    "power": 9
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Walker",
+    "title": "Superman",
+    "city": "Shimla",
+    "power": 6
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Jones",
+    "title": "Investigator",
+    "city": "Mysore",
+    "power": 1
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Maddoc",
+    "title": "Batman",
+    "city": "Mysore",
+    "power": 4
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Wilson",
+    "title": "Black Widow",
+    "city": "Diu Daman",
+    "power": 8
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Kent",
+    "title": "Spiderman",
+    "city": "Jamkhambhadia",
+    "power": 0
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Ramanof",
+    "title": "Ironman",
+    "city": "Diu Daman",
+    "power": 6
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Wayne",
+    "title": "Dare Devil",
+    "city": "Jamkhambhadia",
+    "power": 4
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Gates",
+    "title": "Antman",
+    "city": "Shimla",
+    "power": 0
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Gates",
+    "title": "Dead Pool",
+    "city": "Bengalore",
+    "power": 6
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Jones",
+    "title": "Phantom",
+    "city": "Mysore",
+    "power": 9
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Maddoc",
+    "title": "Batman",
+    "city": "Mysore",
+    "power": 2
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Walker",
+    "title": "Investigator",
+    "city": "Rampuri",
+    "power": 4
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Scott",
+    "title": "Phantom",
+    "city": "Jaipur",
+    "power": 4
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Ramanof",
+    "title": "Antman",
+    "city": "Shimla",
+    "power": 0
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Ramanof",
+    "title": "Antman",
+    "city": "Surat",
+    "power": 0
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Wayne",
+    "title": "Dead Pool",
+    "city": "Ahmedabad",
+    "power": 4
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Stark",
+    "title": "Black Widow",
+    "city": "Rampuri",
+    "power": 6
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Parker",
+    "title": "Investigator",
+    "city": "Ooty",
+    "power": 7
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Walker",
+    "title": "Phantom",
+    "city": "Manali",
+    "power": 7
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Jones",
+    "title": "Spiderman",
+    "city": "Bengalore",
+    "power": 1
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Wayne",
+    "title": "Phantom",
+    "city": "Rampuri",
+    "power": 0
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Rogers",
+    "title": "Antman",
+    "city": "Surat",
+    "power": 8
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Ramanof",
+    "title": "Black Widow",
+    "city": "Manali",
+    "power": 2
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Kent",
+    "title": "Investigator",
+    "city": "Shimla",
+    "power": 1
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Walker",
+    "title": "Batman",
+    "city": "Ahmedabad",
+    "power": 4
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Walker",
+    "title": "Ironman",
+    "city": "Shimla",
+    "power": 1
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Kent",
+    "title": "Microsoft",
+    "city": "Diu Daman",
+    "power": 0
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Walker",
+    "title": "Phantom",
+    "city": "Jaipur",
+    "power": 7
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Ramanof",
+    "title": "Dare Devil",
+    "city": "Jaipur",
+    "power": 2
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Wayne",
+    "title": "Ironman",
+    "city": "Shimla",
+    "power": 8
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Rogers",
+    "title": "Batman",
+    "city": "Nainital",
+    "power": 1
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Kent",
+    "title": "Dead Pool",
+    "city": "Manali",
+    "power": 6
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Walker",
+    "title": "Superman",
+    "city": "Ahmedabad",
+    "power": 9
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Maddoc",
+    "title": "Ironman",
+    "city": "Shimla",
+    "power": 1
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Scott",
+    "title": "Phantom",
+    "city": "Mysore",
+    "power": 1
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Maddoc",
+    "title": "Ironman",
+    "city": "Jamkhambhadia",
+    "power": 4
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Kent",
+    "title": "Ironman",
+    "city": "Ooty",
+    "power": 4
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Walker",
+    "title": "Phantom",
+    "city": "Shimla",
+    "power": 9
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Ramanof",
+    "title": "Dead Pool",
+    "city": "Jaipur",
+    "power": 4
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Kent",
+    "title": "Captain America",
+    "city": "Ooty",
+    "power": 6
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Walker",
+    "title": "Antman",
+    "city": "Mysore",
+    "power": 6
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Kent",
+    "title": "Black Widow",
+    "city": "Ooty",
+    "power": 3
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Ramanof",
+    "title": "Superman",
+    "city": "Ooty",
+    "power": 0
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Scott",
+    "title": "Investigator",
+    "city": "Surat",
+    "power": 0
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Wayne",
+    "title": "Dead Pool",
+    "city": "Diu Daman",
+    "power": 3
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Parker",
+    "title": "Dare Devil",
+    "city": "Bengalore",
+    "power": 8
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Kent",
+    "title": "Dare Devil",
+    "city": "Ahmedabad",
+    "power": 5
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Stark",
+    "title": "Investigator",
+    "city": "Nainital",
+    "power": 3
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Stark",
+    "title": "Antman",
+    "city": "Manali",
+    "power": 5
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Ramanof",
+    "title": "Antman",
+    "city": "Ahmedabad",
+    "power": 4
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Parker",
+    "title": "Dare Devil",
+    "city": "Diu Daman",
+    "power": 8
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Kent",
+    "title": "Phantom",
+    "city": "Ooty",
+    "power": 2
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Walker",
+    "title": "Investigator",
+    "city": "Jamkhambhadia",
+    "power": 5
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Rogers",
+    "title": "Spiderman",
+    "city": "Rampuri",
+    "power": 7
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Rogers",
+    "title": "Antman",
+    "city": "Mysore",
+    "power": 2
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Scott",
+    "title": "Phantom",
+    "city": "Bengalore",
+    "power": 5
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Stark",
+    "title": "Superman",
+    "city": "Diu Daman",
+    "power": 7
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Kent",
+    "title": "Spiderman",
+    "city": "Manali",
+    "power": 1
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Scott",
+    "title": "Dead Pool",
+    "city": "Bengalore",
+    "power": 0
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Gates",
+    "title": "Dead Pool",
+    "city": "Manali",
+    "power": 0
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Wayne",
+    "title": "Microsoft",
+    "city": "Ahmedabad",
+    "power": 4
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Ramanof",
+    "title": "Captain America",
+    "city": "Jaipur",
+    "power": 1
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Wilson",
+    "title": "Spiderman",
+    "city": "Rampuri",
+    "power": 3
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Scott",
+    "title": "Phantom",
+    "city": "Nainital",
+    "power": 5
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Rogers",
+    "title": "Black Widow",
+    "city": "Rampuri",
+    "power": 9
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Maddoc",
+    "title": "Antman",
+    "city": "Rampuri",
+    "power": 3
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Walker",
+    "title": "Microsoft",
+    "city": "Nainital",
+    "power": 3
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Stark",
+    "title": "Investigator",
+    "city": "Jaipur",
+    "power": 2
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Walker",
+    "title": "Batman",
+    "city": "Manali",
+    "power": 0
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Gates",
+    "title": "Superman",
+    "city": "Jaipur",
+    "power": 1
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Parker",
+    "title": "Batman",
+    "city": "Diu Daman",
+    "power": 0
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Parker",
+    "title": "Dead Pool",
+    "city": "Bengalore",
+    "power": 3
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Parker",
+    "title": "Microsoft",
+    "city": "Ooty",
+    "power": 7
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Ramanof",
+    "title": "Dead Pool",
+    "city": "Bengalore",
+    "power": 7
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Scott",
+    "title": "Dare Devil",
+    "city": "Manali",
+    "power": 4
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Rogers",
+    "title": "Ironman",
+    "city": "Jaipur",
+    "power": 0
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Jones",
+    "title": "Phantom",
+    "city": "Mysore",
+    "power": 3
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Kent",
+    "title": "Batman",
+    "city": "Jaipur",
+    "power": 0
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Stark",
+    "title": "Captain America",
+    "city": "Rampuri",
+    "power": 1
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Walker",
+    "title": "Black Widow",
+    "city": "Ooty",
+    "power": 4
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Gates",
+    "title": "Investigator",
+    "city": "Jamkhambhadia",
+    "power": 7
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Scott",
+    "title": "Spiderman",
+    "city": "Ahmedabad",
+    "power": 1
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Gates",
+    "title": "Investigator",
+    "city": "Rampuri",
+    "power": 5
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Rogers",
+    "title": "Microsoft",
+    "city": "Shimla",
+    "power": 3
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Jones",
+    "title": "Black Widow",
+    "city": "Bengalore",
+    "power": 0
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Walker",
+    "title": "Batman",
+    "city": "Surat",
+    "power": 6
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Rogers",
+    "title": "Dead Pool",
+    "city": "Manali",
+    "power": 1
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Parker",
+    "title": "Antman",
+    "city": "Manali",
+    "power": 6
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Rogers",
+    "title": "Captain America",
+    "city": "Ooty",
+    "power": 6
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Ramanof",
+    "title": "Batman",
+    "city": "Manali",
+    "power": 7
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Parker",
+    "title": "Black Widow",
+    "city": "Surat",
+    "power": 0
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Kent",
+    "title": "Dead Pool",
+    "city": "Diu Daman",
+    "power": 3
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Wayne",
+    "title": "Batman",
+    "city": "Jaipur",
+    "power": 6
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Rogers",
+    "title": "Superman",
+    "city": "Mysore",
+    "power": 7
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Wayne",
+    "title": "Superman",
+    "city": "Manali",
+    "power": 3
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Gates",
+    "title": "Dare Devil",
+    "city": "Jaipur",
+    "power": 4
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Parker",
+    "title": "Microsoft",
+    "city": "Jaipur",
+    "power": 1
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Wilson",
+    "title": "Dare Devil",
+    "city": "Ahmedabad",
+    "power": 7
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Gates",
+    "title": "Ironman",
+    "city": "Shimla",
+    "power": 2
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Gates",
+    "title": "Dare Devil",
+    "city": "Bengalore",
+    "power": 9
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Scott",
+    "title": "Investigator",
+    "city": "Jamkhambhadia",
+    "power": 3
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Stark",
+    "title": "Black Widow",
+    "city": "Nainital",
+    "power": 8
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Maddoc",
+    "title": "Superman",
+    "city": "Rampuri",
+    "power": 4
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Walker",
+    "title": "Phantom",
+    "city": "Ahmedabad",
+    "power": 2
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Parker",
+    "title": "Spiderman",
+    "city": "Jaipur",
+    "power": 2
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Wilson",
+    "title": "Antman",
+    "city": "Nainital",
+    "power": 7
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Wayne",
+    "title": "Superman",
+    "city": "Nainital",
+    "power": 6
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Kent",
+    "title": "Dead Pool",
+    "city": "Rampuri",
+    "power": 3
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Maddoc",
+    "title": "Superman",
+    "city": "Ahmedabad",
+    "power": 5
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Wilson",
+    "title": "Spiderman",
+    "city": "Nainital",
+    "power": 7
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Scott",
+    "title": "Spiderman",
+    "city": "Jamkhambhadia",
+    "power": 1
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Rogers",
+    "title": "Dare Devil",
+    "city": "Diu Daman",
+    "power": 5
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Wayne",
+    "title": "Antman",
+    "city": "Surat",
+    "power": 5
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Kent",
+    "title": "Spiderman",
+    "city": "Diu Daman",
+    "power": 8
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Stark",
+    "title": "Batman",
+    "city": "Jaipur",
+    "power": 1
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Kent",
+    "title": "Captain America",
+    "city": "Rampuri",
+    "power": 4
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Maddoc",
+    "title": "Superman",
+    "city": "Nainital",
+    "power": 7
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Rogers",
+    "title": "Phantom",
+    "city": "Nainital",
+    "power": 6
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Wayne",
+    "title": "Antman",
+    "city": "Manali",
+    "power": 4
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Ramanof",
+    "title": "Black Widow",
+    "city": "Shimla",
+    "power": 6
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Scott",
+    "title": "Superman",
+    "city": "Jaipur",
+    "power": 2
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Parker",
+    "title": "Dare Devil",
+    "city": "Jamkhambhadia",
+    "power": 2
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Jones",
+    "title": "Dare Devil",
+    "city": "Nainital",
+    "power": 3
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Maddoc",
+    "title": "Superman",
+    "city": "Surat",
+    "power": 7
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Walker",
+    "title": "Antman",
+    "city": "Jaipur",
+    "power": 0
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Parker",
+    "title": "Microsoft",
+    "city": "Manali",
+    "power": 3
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Maddoc",
+    "title": "Superman",
+    "city": "Shimla",
+    "power": 8
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Gates",
+    "title": "Ironman",
+    "city": "Mysore",
+    "power": 7
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Maddoc",
+    "title": "Black Widow",
+    "city": "Diu Daman",
+    "power": 5
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Wilson",
+    "title": "Captain America",
+    "city": "Jamkhambhadia",
+    "power": 1
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Walker",
+    "title": "Batman",
+    "city": "Shimla",
+    "power": 2
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Rogers",
+    "title": "Ironman",
+    "city": "Rampuri",
+    "power": 4
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Walker",
+    "title": "Antman",
+    "city": "Nainital",
+    "power": 0
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Maddoc",
+    "title": "Captain America",
+    "city": "Ooty",
+    "power": 4
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Walker",
+    "title": "Microsoft",
+    "city": "Ahmedabad",
+    "power": 9
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Wayne",
+    "title": "Dead Pool",
+    "city": "Nainital",
+    "power": 2
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Maddoc",
+    "title": "Batman",
+    "city": "Ooty",
+    "power": 0
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Rogers",
+    "title": "Phantom",
+    "city": "Jamkhambhadia",
+    "power": 5
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Wayne",
+    "title": "Superman",
+    "city": "Nainital",
+    "power": 8
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Wilson",
+    "title": "Ironman",
+    "city": "Bengalore",
+    "power": 3
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Stark",
+    "title": "Investigator",
+    "city": "Ooty",
+    "power": 2
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Scott",
+    "title": "Phantom",
+    "city": "Rampuri",
+    "power": 0
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Walker",
+    "title": "Dead Pool",
+    "city": "Diu Daman",
+    "power": 9
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Wayne",
+    "title": "Black Widow",
+    "city": "Jamkhambhadia",
+    "power": 7
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Wayne",
+    "title": "Microsoft",
+    "city": "Surat",
+    "power": 0
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Gates",
+    "title": "Antman",
+    "city": "Diu Daman",
+    "power": 4
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Stark",
+    "title": "Spiderman",
+    "city": "Jamkhambhadia",
+    "power": 2
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Kent",
+    "title": "Captain America",
+    "city": "Jamkhambhadia",
+    "power": 9
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Stark",
+    "title": "Antman",
+    "city": "Ahmedabad",
+    "power": 2
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Kent",
+    "title": "Investigator",
+    "city": "Jamkhambhadia",
+    "power": 4
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Wilson",
+    "title": "Dare Devil",
+    "city": "Bengalore",
+    "power": 0
+  },
+  {
+    "firstname": "Clark",
+    "lastname": "Jones",
+    "title": "Batman",
+    "city": "Mysore",
+    "power": 1
+  },
+  {
+    "firstname": "Kit",
+    "lastname": "Wayne",
+    "title": "Black Widow",
+    "city": "Diu Daman",
+    "power": 9
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Jones",
+    "title": "Captain America",
+    "city": "Manali",
+    "power": 2
+  },
+  {
+    "firstname": "Peter",
+    "lastname": "Kent",
+    "title": "Antman",
+    "city": "Surat",
+    "power": 5
+  },
+  {
+    "firstname": "Wade",
+    "lastname": "Ramanof",
+    "title": "Captain America",
+    "city": "Diu Daman",
+    "power": 9
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Walker",
+    "title": "Ironman",
+    "city": "Diu Daman",
+    "power": 4
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Parker",
+    "title": "Microsoft",
+    "city": "Ooty",
+    "power": 8
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Maddoc",
+    "title": "Dare Devil",
+    "city": "Manali",
+    "power": 2
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Wilson",
+    "title": "Antman",
+    "city": "Rampuri",
+    "power": 0
+  },
+  {
+    "firstname": "Mat",
+    "lastname": "Wayne",
+    "title": "Ironman",
+    "city": "Shimla",
+    "power": 9
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Gates",
+    "title": "Dead Pool",
+    "city": "Bengalore",
+    "power": 7
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Ramanof",
+    "title": "Batman",
+    "city": "Surat",
+    "power": 8
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Maddoc",
+    "title": "Captain America",
+    "city": "Ooty",
+    "power": 2
+  },
+  {
+    "firstname": "Natasha",
+    "lastname": "Wayne",
+    "title": "Dead Pool",
+    "city": "Ahmedabad",
+    "power": 1
+  },
+  {
+    "firstname": "Tony",
+    "lastname": "Wayne",
+    "title": "Phantom",
+    "city": "Diu Daman",
+    "power": 4
+  },
+  {
+    "firstname": "Steve",
+    "lastname": "Parker",
+    "title": "Investigator",
+    "city": "Manali",
+    "power": 4
+  }
+]

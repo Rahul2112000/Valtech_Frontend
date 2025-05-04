@@ -1,0 +1,18 @@
+doctype html
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        title Document
+    body
+        h1 Welcome to your life | #{compname} : PUG
+        h2 We need #{headcount} vadapav
+        hr
+        form(action="#", method="post") 
+            label(for="msg")
+            input(id="msg", name="message") 
+            button(type="submit") Add Hero 
+        hr
+        ul
+        each hero in heroes
+            li #{hero}
